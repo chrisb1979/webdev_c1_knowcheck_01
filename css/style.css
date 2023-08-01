@@ -186,8 +186,8 @@ a:hover, a:active {
 .btn, .btn:visited  {
     width: 100%;
     max-width: 180px;
-    background: #f08527;
-    color: #1b1b27;
+    background: #74b44a;
+    color: #74b44a;
     border: 2px solid #f08527;
     border-radius: 12px;
     padding: 12px 24px;
