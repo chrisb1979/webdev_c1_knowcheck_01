@@ -54,6 +54,8 @@ body {
     height: 80vh;
     padding: 0;
     margin: 0;
+    display: inline-flex;
+    border: solid 4px black;
 }
 
 .hero-content {
@@ -62,6 +64,7 @@ body {
     text-align: center;
     padding: 24px;
     margin: 0 auto;
+	
 }
 
 .aboutme-container {
